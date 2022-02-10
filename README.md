@@ -20,6 +20,9 @@
 <br />
 
 ## I am Onur Öğüt
-- Developer at Gebr Taskin Logistics GmbH
+- Software Engineer at Gebr Taskin Logistics GmbH
+- Freelance Developer
+- Self-Taught IT Specialist
+- Loves Progressive Rock
 
 ![Metrics](/github-metrics.svg)
