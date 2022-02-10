@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="left">
-  <a href="https://github.com/omBratteng">
+  <a href="https://tr.linkedin.com/in/onurogut">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
