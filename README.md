@@ -1,4 +1,4 @@
-# Hi there 👋
+# ./hello_world
 
 <div align="left">
   <a href="https://tr.linkedin.com/in/onurogut">
@@ -19,10 +19,8 @@
 
 <br />
 
-## I am Onur Öğüt
+## I'm Onur Öğüt from Turkey
 - Software Engineer at Gebr Taskin Logistics GmbH
-- Freelance Developer
-- Self-Taught IT Specialist
-- Loves Progressive Rock
+- Freelance Developer & Self-Taught IT Specialist
 
 ![Metrics](/github-metrics.svg)
