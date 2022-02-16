@@ -21,6 +21,6 @@
 
 ## I'm Onur Öğüt from Turkey
 - Software Engineer at Gebr Taskin Logistics GmbH
-- Freelance Developer & Self-Taught IT Specialist
+- Freelance Developer & Self-Taught Pentester
 
 ![Metrics](/github-metrics.svg)
