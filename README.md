@@ -19,8 +19,8 @@
 
 <br />
 
-## I'm Onur Öğüt from Turkey
-- IT Administrator
+## I'm Onur Öğüt
+- IT System Administrator / DevOps
 - Freelance Developer & Self-Taught Pentester
 
 ![Metrics](/github-metrics.svg)
