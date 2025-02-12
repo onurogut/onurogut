@@ -20,7 +20,7 @@
 <br />
 
 ## I'm Onur Öğüt
-- IT System Administrator / DevOps
+- IT System & Network Engineer
 - Freelance Developer & Self-Taught Pentester
 
 ![Metrics](/github-metrics.svg)
